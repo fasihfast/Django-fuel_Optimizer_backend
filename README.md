@@ -31,7 +31,7 @@ route), which is within the assessment's "one call ideal, two or three
 acceptable" budget. The ~8,000-row fuel price CSV is geocoded **once**,
 offline, by a management command - not on every request.
 
-## Key assumptions (worth restating in your Loom demo)
+## Key assumptions (Important)
 
 1. The vehicle starts the trip with a full tank, so the first 500 miles
    never cost anything - only actual refueling stops are charged.
